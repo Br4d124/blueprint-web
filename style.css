@@ -82,3 +82,12 @@ body {
   border: 1px solid #e5e7eb;
   font-weight: 500;
 }
+
+/* PORTFOLIO PROJECT */
+.project {
+  margin-top: 30px;
+  padding: 28px;
+  border-radius: 14px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+}
